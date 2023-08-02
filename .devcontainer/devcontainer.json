@@ -26,7 +26,9 @@
 				"ms-python.isort",
 				"christian-kohler.path-intellisense",
 				"jakearl.search-editor-apply-changes",
-				"BriteSnow.vscode-toggle-quotes"
+				"BriteSnow.vscode-toggle-quotes",
+				"ms-1es.pull-request-quantifier",
+				"codezombiech.gitignore"
 			]
 		}
 	}
