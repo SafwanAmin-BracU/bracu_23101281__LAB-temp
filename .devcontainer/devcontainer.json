@@ -28,7 +28,10 @@
 				"jakearl.search-editor-apply-changes",
 				"BriteSnow.vscode-toggle-quotes",
 				"ms-1es.pull-request-quantifier",
-				"codezombiech.gitignore"
+				"codezombiech.gitignore",
+				"SeyyedKhandon.firacode",
+				"cweijan.vscode-office",
+				"antfu.icons-carbon"
 			]
 		}
 	}
