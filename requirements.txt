@@ -1,0 +1,5 @@
+pandas
+requests
+black
+flask
+numpy
