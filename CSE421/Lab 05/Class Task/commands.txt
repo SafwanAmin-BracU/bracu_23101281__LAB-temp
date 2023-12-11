@@ -1,0 +1,8 @@
+###  8.1.3.3_Packet_Tracer_-_Configuring_DHCPv4_Using_Cisco_IOS:
+
+en
+conf t
+ip dhcp excluded
+ip dhcp excluded-address ?
+ip dhcp excluded-address 192.168.0.1?
+ip dhcp excluded-address 192.168.0.1
